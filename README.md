@@ -1,2 +1,2 @@
 # hello_world
-It's my first repository!
+My name is Natalia. I study maths.
